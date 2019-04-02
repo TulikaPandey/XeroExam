@@ -40,6 +40,7 @@ public class FreeTrialModuleTC2 {
 	}
 	//public void enterlocation(){
 		//driver.findElement(location).selectByVisibleText("India");
+	
 	public void clickonterms(){
 	       driver.findElement(terms).click();
 	}
